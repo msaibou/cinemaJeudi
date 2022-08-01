@@ -47,6 +47,7 @@ class FilmItem extends React.Component {
           source={require("../assets/15187653912696_ic_favorite.png")}
         />
       );
+      
       console.log("found it here!!");
     } else {
       console.log("did'nt found it here!!");
